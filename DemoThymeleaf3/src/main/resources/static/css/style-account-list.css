@@ -1,0 +1,33 @@
+body {
+    width: 50%;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+h3 {
+    color: red;
+}
+
+table, tr, td {
+    border: 1px solid darkslategray;
+    border-collapse: collapse;
+    padding: 5px;
+    background-color: #ecd8fc;
+}
+
+thead {
+    font-size: larger;
+    font-weight: bold;
+}
+.add-account {
+    font-size: unset;
+    font-weight: unset;
+}
+
+.text-area {
+    width: 600px;
+    margin: auto;
+}
